@@ -27,7 +27,7 @@ A Instalação é bem simples, basta executar o instalador e ir seguindos os pas
 
 
     
-## Apêndice
+## Info
 
 Caso consiga fazer a captura em algum outro sistema ou software de captura e quiser deixar a sua contribuição, faz um pull request com o tutorial, ou pode me enviar no email verners.cerpe@gmail.com
 
