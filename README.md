@@ -11,7 +11,7 @@ Windows 10      - Consegui fazer a instalação e a captura de uma fita VHS inte
 
 Windows 11      - Não Testei.
 
-Arch Linux      - Não consegui fazer funcionar.
+Xubutu          - Funciona perfeitamente com o OBS sem a necessidade de instalar os drivers manualmente.
 
 Máquina Virtual - Para não ser necessário instalar o Windows 7 em uma máquina, creio que há a possibilidade de criar uma Máquina Virtual e realizar a captura por lá, mas não cheguei a tentar.
 
@@ -28,7 +28,5 @@ A Instalação é bem simples, basta executar o instalador e ir seguindos os pas
 
     
 ## Info
-
-Caso consiga fazer a captura em algum outro sistema ou software de captura e quiser deixar a sua contribuição, faz um pull request com o tutorial, ou pode me enviar no email verners.cerpe@gmail.com
 
 Eu não detenho os direitos do driver quanto da placa de captura.
